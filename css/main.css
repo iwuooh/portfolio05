@@ -1,0 +1,36 @@
+.mainbanner {
+  height: 550px;
+}
+
+.mainbanner .row {
+  position: relative;
+  height: 100%;
+}
+
+.mainbanner .row .col {
+  position: absolute;
+  width: 50%;
+  height: auto;
+}
+
+.mainbanner .row .col:first-child {
+  left: 0;
+  top: 25%;
+}
+
+.mainbanner .row .col:first-child h1 {
+  font-size: 60px;
+}
+
+.mainbanner .row .col:last-child {
+  right: 0;
+  top: 10%;
+  background: url("../img/main_banner.png") no-repeat;
+  background-position: center;
+  background-size: contain;
+  height: 100%;
+}
+
+.inner:nth-child(1) {
+  margin-top: 50px;
+}

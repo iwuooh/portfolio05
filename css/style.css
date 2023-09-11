@@ -81,7 +81,6 @@ input {
 
 .container .content .inner.service .box .items .flex_wrap .flex_item p {
   font-size: 16px;
-  word-break: break-all;
 }
 
 .container .content .inner.service .box .items .flex_wrap .flex_item .icon {
@@ -134,7 +133,6 @@ input {
 .container .content .inner.product .box .items .card_wrap .card .col:first-child p {
   font-size: 16px;
   text-align: left;
-  word-break: break-all;
 }
 
 .container .content .inner.product .box .items .card_wrap .card .col:last-child {
@@ -643,7 +641,6 @@ body.subpage main .container .inner .box .items {
 }
 
 body.subpage .container .inner.about .box .items p {
-  word-break: break-all;
   text-align: center;
 }
 
@@ -655,7 +652,6 @@ body.subpage .container .inner.about .box .items .img {
 
 body.subpage .container .inner.ci .box .items p {
   text-align: center;
-  word-break: break-all;
 }
 
 body.subpage .container .inner.ci .box .items .img {
@@ -667,7 +663,6 @@ body.subpage .container .inner.ci .box .items .img {
 
 body.subpage .container .inner.history .box .items p {
   text-align: center;
-  word-break: break-all;
 }
 
 body.subpage .container .inner.history .box .flex_wrap {
@@ -734,7 +729,6 @@ body.subpage .container .inner.product .box .items .card_wrap .card .col:first-c
 body.subpage .container .inner.product .box .items .card_wrap .card .col:first-child p {
   font-size: 16px;
   text-align: left;
-  word-break: break-all;
 }
 
 body.subpage .container .inner.product .box .items .card_wrap .card .col:last-child {
@@ -894,7 +888,7 @@ body.subpage .container .inner.faq dl dd span {
 
 body.subpage .container .inner.faq dl dd p {
   margin: 0;
-  padding: 20px 0;
+  padding: 20px 10px 0;
 }
 
 body.sub {
